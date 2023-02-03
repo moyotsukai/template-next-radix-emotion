@@ -11,7 +11,7 @@ npx create-next-app project-name --typescript
 
 - Emotion
 ```
-npm install @emotion/react
+npm install @emotion/react @emotion/styled
 ```
 ```
 //tsconfig.json
@@ -22,6 +22,13 @@ npm install @emotion/react
 }
 ```
 
-- /styles  
-
 - /components  
+Layout
+Footer
+Accordion
+Spacer
+Divider
+ArrowIcon
+
+- Radix UI
+@radix-ui/react-accordion

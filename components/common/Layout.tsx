@@ -13,7 +13,11 @@ const Layout: React.FC<Props> = ({ children }) => {
 }
 
 const layoutStyle = css`
-  color: #00ff00;
+  background-color: #f2faff;
+  display: grid;
+  grid-template-rows: 1fr auto;
+  grid-template-columns: 100%;
+  min-height: 100vh;
 `
 
 export default Layout
