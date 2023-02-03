@@ -24,7 +24,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx",
-    "components/radix/Accordion"
+    "src/components/radix/Accordion"
   ],
   "exclude": [
     "node_modules"
